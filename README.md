@@ -1,10 +1,9 @@
 <DOCTYPE html>
 <html lang="en">
   <head>
-    Hello!
+    Hello GitHub!
   </head>
   <body>
-    
-    Hello, world
+    This is my first time using GitHub
   </body>
 </html>
